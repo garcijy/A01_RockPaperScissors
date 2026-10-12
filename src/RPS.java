@@ -87,8 +87,8 @@ public class RPS
         }
         while (playAgain.equalsIgnoreCase("Y")); // start over if they say Y
 
-        System.out.println("Thanks for playing!" +
-                "");
+        System.out.println("Thanks for playing!");
+
 
 
 
